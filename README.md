@@ -9,5 +9,4 @@
 
 ![Loopback Example](https://github.com/michelbarbeau/underwater-recordings/blob/master/IMG_0616.jpg)
 
-## Content
 
